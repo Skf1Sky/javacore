@@ -1,0 +1,13 @@
+hàm khác với phương thức
+cú pháp của hàm
+các phương thức thì cùng cấp với nhau
+    nghĩa là main cùng cấp với các phương thức khác
+* hạn chế tối đa sout trong hàm con (ưu tiên trả lại kiểu dữ liệu ít dùng void)
+truyền dữ liệu cho phương thức
+    * truyền theo tham trị
+        - giá trị khi ra khỏi hàm nó không bị thay đổi
+    * truyền theo tham chiếu( chỉ có bên c++ không có bên java)Ơ
+        - giá trị khi ra khỏi hàm nó bị thay đổi
+Tuỳ vào trường hơ mà gọi void hay kiểu dữ liệu
+    nhiều kết quả trong 1 hàm thì ưu tiên dùng void
+ hàm gặp return nghĩa là kết thúc cái hàm đó luôn chuyển tiếp sang hàm khác 
