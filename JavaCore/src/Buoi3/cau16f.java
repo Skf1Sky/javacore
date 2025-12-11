@@ -1,4 +1,4 @@
-package buoi3;
+package Buoi3;
 
 public class cau16f {
     public static void main(String[] args) {
